@@ -208,7 +208,7 @@ def even_better_draw_circles(point, radii, circles, circlecolor, thickness):
 
 
 ###############################################################################
-# TODO: 5.
+# DONE: 5.
 #
 # Finally, comment-out the existing calls to  even_better_draw_circles  and
 # add code in   main  to draw various circles that form a BEAUTIFUL picture!
